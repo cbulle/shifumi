@@ -9,6 +9,10 @@ VPATH += $${INCLUDEPATH}
 SOURCES += \
 	socket.cpp \
 	client.cpp
+	shifumiclient.cpp \
+
 
 HEADERS += \
 	socket.h
+	shifumiclient.h
+
